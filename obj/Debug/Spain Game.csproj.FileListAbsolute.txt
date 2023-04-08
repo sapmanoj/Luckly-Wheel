@@ -1,0 +1,11 @@
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Spain Game.csproj.AssemblyReference.cache
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Spain Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SPAINGAME.resources
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Spain Game.csproj.GenerateResource.cache
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Spain Game.csproj.CoreCompileInputs.cache
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Manoj\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
